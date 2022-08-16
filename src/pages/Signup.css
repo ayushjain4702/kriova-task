@@ -1,0 +1,12 @@
+h1{
+    /* font-family: "Changa One"; */
+    font-weight:normal;
+    font-size: 100px;
+    position: absolute;
+    left: 620px;
+    top: -31px;
+}
+
+.box{
+    background-color: aqua;
+}
